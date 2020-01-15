@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+ .Card{
+  width: 40%;
+  background-color: whitesmoke;
+  border: 10px double black;
+  padding: 1.5%;
+  margin: 2% auto;
+ }
+ .Cardimg{
+   margin: 0 auto;
+ }
+ .Card img{
+   border: 3px solid black;
+  width: 30%;
+  
+ }
+ .Followers-container{
+ 
+border: 5px solid black;
+ }
+ .Followers{
+   display: flex;
+   flex-wrap: wrap;
+ }
